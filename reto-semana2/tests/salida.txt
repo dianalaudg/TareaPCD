@@ -1,0 +1,1 @@
+ciudad,temperatura_celsius,clasificacion
