@@ -53,3 +53,4 @@ Mouse,18,4500.00,25
 De la Luz García Diana Laura
 
 ## Cómo ejecutar el programa 
+Get-Content tests/entrada.txt | python main.py > tests/salida_generada.txt
