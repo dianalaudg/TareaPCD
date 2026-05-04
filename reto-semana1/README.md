@@ -2,7 +2,7 @@
 Programa que limpia y suma valores desde la entrada estándar.
 
 ### Instrucciones de uso
-Ejecutar: Get-Content ../tests/entrada.txt | python main.py > ../tests/salida.txt
+Ejecutar: Get-Content tests/entrada.txt | python reto-semana1/main.py > tests/salida.txt
 
 ### Ejemplo
 Entrada: `1, 2, 3` -> Salida: `6`
