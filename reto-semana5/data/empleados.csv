@@ -1,0 +1,6 @@
+id,nombre,edad,departamento,activo
+1,Ana,25,TI,true
+2,Luis,30,RH,false
+3,Carlos,28,Ventas,true
+4,María,,Marketing,true
+5,Sofía,35,TI,true

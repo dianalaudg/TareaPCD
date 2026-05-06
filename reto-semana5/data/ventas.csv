@@ -1,0 +1,6 @@
+id,cliente,total,fecha,pagado
+1,Ana,1500.50,2026-01-10,true
+2,Luis,2300.00,2026-01-11,false
+3,Carlos,,2026-01-12,true
+4,María,999.99,2026-01-13,true
+5,Sofía,1200,2026-01-14,false
